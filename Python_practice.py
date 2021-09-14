@@ -28,3 +28,11 @@ elif Number%2==0:
 else:
     print("Your given number is Odd")
     
+################################################
+name="my name is anjaiah"
+print(len(name))
+print(name.upper())
+print(name.find('a'))
+print(name.replace('a','n'))
+print('name'in name)
+    
